@@ -519,4 +519,8 @@
         "message": "PROJEKTY",
         "description": "Note that exceding this size will make the interface break."
     }
+        "Reports": {
+        "message": "RAPORTY",
+        "description": "Note that exceding this size will make the interface break."
+    }
 }

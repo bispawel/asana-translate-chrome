@@ -518,9 +518,14 @@
     "PROJECTS": {
         "message": "PROJEKTY",
         "description": "Note that exceding this size will make the interface break."
-    }
+    },
+    "Followers": {
+        "message": "Obserwatorzy",
+        "description": ""
+    },    
         "Reports": {
-        "message": "RAPORTY",
-        "description": "Note that exceding this size will make the interface break."
+        "message": "Raporty",
+        "description": ""
     }
+    
 }
